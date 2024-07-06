@@ -15,7 +15,7 @@ Project uses all standard practices like JWT, bcrypt, access tokens, refresh Tok
 # To run this code
 
 - Clone this repo
-- `cd ./miTube-backend/`
+- `cd .\miTube-backend\`
 - Run `npm install` to install all the dependencies
 - Run `npm run dev` to start a server
 - Goto `http://localhost:8000` 
